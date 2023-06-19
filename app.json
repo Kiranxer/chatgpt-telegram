@@ -1,0 +1,21 @@
+{
+
+  "name": "whatsapp-bot (hermit-md)",
+
+  "description": " Whatsapp bot.",
+
+  "keywords": [
+
+    "whatsapp bot"
+
+  ],
+
+  "repository": "https://github.com/Kiranxer/chatgpt-telegram",
+
+  "stack": "container"
+
+      }
+
+  ]
+
+}
